@@ -1,4 +1,4 @@
-https://github.com/Dnyanusawant/Dnyanusawant-Txon-Task2/tree/mainThis Repositary contains three files:
+This Repositary contains three files:
 
 .calcindex.html
 
